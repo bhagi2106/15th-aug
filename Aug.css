@@ -1,0 +1,26 @@
+.page{
+    height: 33.3%;
+    background-color: orange;
+   text-align: left;  
+   text-align: 30Px;
+   font-size: 20px;
+}
+.page1{
+    height: 43%;
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+
+
+}
+.page2{
+    
+    height:33.3%;
+    background-color:green;
+    text-align:end ;
+    font-size: 20px;
+}
+div>.page>img{
+    
+    
+}
